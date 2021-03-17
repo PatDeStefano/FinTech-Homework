@@ -26,6 +26,7 @@ Do the same for node two:
 The same message will apart as the first node but you will get a different address.
 
 This is what it should look like in Git Bash:
+
 ![Node1](https://github.com/PatDeStefano/FinTech-Homework/blob/main/Unit18-%20Blockchain/ScreenShots/AccountOneSetup.PNG)
 
 ![Node2](https://github.com/PatDeStefano/FinTech-Homework/blob/main/Unit18-%20Blockchain/ScreenShots/AccountTwoSetup.PNG)
