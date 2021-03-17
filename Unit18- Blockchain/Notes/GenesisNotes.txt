@@ -8,7 +8,7 @@ Genesis Network
 333
 
 ./geth account new --datadir node1
-./geth account new --datadir node1
+./geth account new --datadir node2
 
 Password:
 hi
