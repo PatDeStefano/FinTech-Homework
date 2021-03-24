@@ -1,7 +1,6 @@
 # Unit 20- Solidity Homework
 
-## Assignment
-    I completed all three levels of difficulty.
+## Assignment: I completed all three levels of difficulty.
 
 
 ## Files
@@ -15,8 +14,9 @@
 
 ## ScreenShots
 
-![associateprofitssplitter] (https://github.com/PatDeStefano/FinTech-Homework/blob/main/Unit20-Solidity/ScreenShots/associateprofitssplitter.PNG)
-<img src = Screenshots/Level2_Deployment_Confirmed.PNG>
-<img src = Screenshots/Level2_Deposit_145ETH.PNG>
-<img src = Screenshots/Level2_Deposit_Confirmed.PNG>
-<img src = Screenshots/Level2_Remix_Confirm.PNG>
+![AssociateProfitSplitter](https://github.com/PatDeStefano/FinTech-Homework/blob/main/Unit20-Solidity/ScreenShots/associateprofitssplitter.PNG)
+![TieredProfitSplitter](https://github.com/PatDeStefano/FinTech-Homework/blob/main/Unit20-Solidity/ScreenShots/tierdprofitssplitter.PNG)
+![TieredProfitSplitterConfirmation](https://github.com/PatDeStefano/FinTech-Homework/blob/main/Unit20-Solidity/ScreenShots/tierdprofitssplitterConfirmed.PNG)
+![DeferredEquityPlan](https://github.com/PatDeStefano/FinTech-Homework/blob/main/Unit20-Solidity/ScreenShots/DeferredEquityPlanConfirmed.PNG)
+![GanacheUsed](https://github.com/PatDeStefano/FinTech-Homework/blob/main/Unit20-Solidity/ScreenShots/unit20-GancheUsed.PNG)
+![GanacheConfirmation](https://github.com/PatDeStefano/FinTech-Homework/blob/main/Unit20-Solidity/ScreenShots/GancheConfirmation.PNG)
