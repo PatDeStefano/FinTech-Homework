@@ -1,11 +1,6 @@
-# Unit 21 -Advanced Solidity
+## Unit 21 -Advanced Solidity
 
-These are the solidity codes used for the homework: 
-
-[Crowdsale.sol]https://github.com/PatDeStefano/FinTech-Homework/blob/main/Unit21-AdvancedSolidity/Crowdsale.sol)
-[PupperCoin.sol](https://github.com/PatDeStefano/FinTech-Homework/blob/main/Unit21-AdvancedSolidity/PupperCoin.sol)
-
-### You can see all the steps in the screenshots below:
+### The codes are listed above and these are the screenshots for the process:
 
 ![Compile](https://github.com/PatDeStefano/FinTech-Homework/blob/main/Unit21-AdvancedSolidity/ScreenShots/Compiler.PNG)
 
